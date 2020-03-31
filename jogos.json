@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Call of Duty",
+        "genero": "Tiro em primeira pessoa",
+        "quantidade": 5
+    },
+
+    {
+        "id": 2,
+        "name": "FIFA",
+        "genero": "Esportes",
+        "quantidade": 4
+    },
+    {
+        "id": 3,
+        "name": "God of War",
+        "genero": "Ação-Aventura",
+        "quantidade": 6
+    }
+]
